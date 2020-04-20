@@ -1,7 +1,7 @@
 # Github-Repos-Grabber
 Small tool to Download All Repos Account Automaticly ,Simple And Easy for Windows Users..
 
-![alt text](https://raw.githubusercontent.com/ServerDotApk/Github-Repos-Grabber/master/screenshot.JPG)
+![alt text](https://raw.githubusercontent.com/ServerDotApk/Github-Repos-Grabber/master/screenshot.bmp)
 
 # USing : 
 - add username 
